@@ -191,6 +191,6 @@ VARIABLE
 * Тест перевода：test_translator.py
 
 ## Автоматическое тестирование：
-  GIT-адрес：https://github.com/TeacherChen1990/prob2
+  GIT-адрес：https://github.com/Kingstar10/Forth.git
   После отправки кода (основная ветвь) автоматически запустится обнаружение приложения Python, а файлы test_machine.py и test_translator.py будут автоматически выполнены, и обнаружение пройдет успешно.
 
